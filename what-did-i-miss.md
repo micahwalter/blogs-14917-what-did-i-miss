@@ -8,4 +8,4 @@ Today is the fourteen-thousand, nine-hundred seventeenth day I've been alive. I 
 
 I'm not actively hiding. I'm actually just sick.
 
-See a typo? Send me a [pull-request]()!
+See a typo? Send me a [pull-request](https://github.com/micahwalter/blogs-14917-what-did-i-miss)!
